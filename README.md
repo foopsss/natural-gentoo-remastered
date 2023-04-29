@@ -42,7 +42,7 @@ The Gentoo logo and name are a trademark of the Gentoo Foundation, Inc. in the U
 Neither the Gentoo Foundation nor the Gentoo Project are in any way affilliated to this project and the Gentoo logo is used under the rules listed in the "Gentoo-related software projects" and "Service Identificacion" sections of the [Gentoo name and logo usage guidelines](https://www.gentoo.org/inside-gentoo/foundation/name-logo-guidelines.html).
 
 # Credits
-* The shield at the top of the README and the copy of the CC-BY-SA 4.0 come from the [cc-licenses](https://github.com/santisoler/cc-licenses) GitHub repo.
+* The shield at the top of the README and the copy of the CC-BY-SA 4.0 license come from the [cc-licenses](https://github.com/santisoler/cc-licenses) GitHub repo.
 * The [CyberRe](https://www.gnome-look.org/p/1420727/) and Starfield GRUB themes, which helped me to understand GRUB themes.
 * The "[Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html)" section in the [GNU GRUB manual](https://www.gnu.org/software/grub/manual/grub/grub.html), for the much-appreciated information on how to make a theme.
 
