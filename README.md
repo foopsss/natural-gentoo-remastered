@@ -3,7 +3,7 @@
 # natural-gentoo-remastered
 This theme is a sort of remaster of [natural-gentoo](https://jtyr.github.io/natural-gentoo), an old GRUB and Splashutils theme I found on the Internet a while ago that I couldn't install, possibly due to its age, so I decided to remake it.
 
-This repo contains both a GRUB theme and a Plymouth theme to customize the splash screen at the start.
+This repo contains both a GRUB theme and a WIP Plymouth theme to customize the splash screen at the start.
 
 # Installation
 It should be noted that this README makes a few assumptions about the system it's going to be installed in. It's assumed that both GRUB and Plymouth are already installed and configured on your machine, and the initrd image is built using dracut (if done manually please refer to the documentation used to do so when performing the final step on "Configuring the system").
