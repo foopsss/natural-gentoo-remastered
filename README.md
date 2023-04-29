@@ -46,7 +46,7 @@ Neither the Gentoo Foundation nor the Gentoo Project are in any way affilliated 
 * The [CyberRe](https://www.gnome-look.org/p/1420727/) and Starfield GRUB themes, which helped me to understand GRUB themes.
 * The "[Theme file format](https://www.gnu.org/software/grub/manual/grub/html_node/Theme-file-format.html)" section in the [GNU GRUB manual](https://www.gnu.org/software/grub/manual/grub/grub.html), for the much-appreciated information on how to make a theme.
 
-# Special Thanks.
+# Special Thanks
 * Thanks to Ulrich Mueller from the Gentoo Licenses team and u/erkiferenc from the r/Gentoo subreddit, who helped me clearing my doubts around some of the details of the CC-BY-SA license and the usage of CC-BY-SA licensed materials. Also, thanks to u/gyakovlev and u/OptionalKarmotrine for taking the time of chimming in with some suggestions to help me with this problem when I asked about it.
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
