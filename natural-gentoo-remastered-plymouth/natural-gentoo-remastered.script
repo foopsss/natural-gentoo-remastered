@@ -1,0 +1,10 @@
+// Theme wallpaper.
+screen_width = Window.GetWidth();
+screen_height = Window.GetHeight();
+
+background_image = Image("background.png");
+resized_background_image = background_image.Scale(screen_width,screen_height);
+
+background_sprite = Sprite();
+background_sprite.SetImage(resized_background_image);
+background_sprite.SetZ(-100);

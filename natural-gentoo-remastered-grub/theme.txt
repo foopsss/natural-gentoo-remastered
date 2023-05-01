@@ -1,0 +1,30 @@
+# Propiedades globales.
+title-text: ""
+desktop-image: "background.png"
+terminal-box: "terminal_box_*.png"
+
+# Menu de opciones de GRUB.
++ boot_menu {
+	# Disposicion de los elementos del menu.
+	top = 19%
+	left = 4%
+	width = 92%
+	height = 52%
+	item_spacing = 3
+
+	# Formato de los items del menu.
+	item_color = "#FFFFFF"
+	selected_item_color = "#FFFFFF"
+	selected_item_pixmap_style = "highlight_*.png"
+}
+
+# Barra de ayuda al fondo de la imagen.
++ label {
+	top = 100%-25
+	left = 0
+	width = 100%
+	height = 20
+	text = "@KEYMAP_MIDDLE@"
+	align = "center"
+	color = "#FFFFFF"
+}

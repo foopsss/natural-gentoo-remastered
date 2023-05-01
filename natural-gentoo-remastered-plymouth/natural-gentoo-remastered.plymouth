@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name = natural-gentoo-remastered
+Description = Plymouth theme inspired on the old Splashutils natural-gentoo theme.
+ModuleName = script
+
+[script]
+ImageDir = /usr/share/plymouth/themes/natural-gentoo-remastered
+ScriptFile = /usr/share/plymouth/themes/natural-gentoo-remastered/natural-gentoo-remastered.script
