@@ -11,7 +11,7 @@ It should be noted that this README makes a few assumptions about the system it'
 ## Installing the theme
 **NOTE: the instructions are provided for the moment but I haven't made any ebuilds yet so anyone wanting to try this now will have to resort to the manual installation.**
 
-* For Gentoo, this theme can be installed with the "x11-themes/natural-gentoo-remastered" package available in [my overlay](https://github.com/foopsss/Ebuilds). Both parts of the theme can be installed individually with the "grub" and "plymouth" use flags.
+* For Gentoo, this theme can be installed with the "x11-themes/natural-gentoo-remastered" package available in [my overlay](https://github.com/foopsss/gentoo-overlay). Both parts of the theme can be installed individually with the "grub" and "plymouth" use flags.
 
 * For other Linux distributions, the theme can be manually installed by copying and pasting the "natural-gentoo-remastered-grub" and/or "natural-gentoo-remastered-plymouth" folders into "/boot/grub/themes" and "/usr/share/plymouth/themes" respectively.
 
